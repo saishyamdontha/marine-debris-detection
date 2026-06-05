@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .env
-*.pth
+*pth
 .DS_Store
 outputs/
+MARIDA/

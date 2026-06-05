@@ -134,10 +134,10 @@ Requires Python 3.10+ and CUDA 12.0+
 
 ## Running the Notebook
 
-Open `marine2.ipynb` in Jupyter:
+Open `marine_debris.ipynb` in Jupyter:
 
 ```bash
-jupyter notebook marine2.ipynb
+jupyter notebook marine_debris.ipynb
 ```
 
 ### To train all models from scratch:
